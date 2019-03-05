@@ -1,0 +1,2 @@
+# grpc-mode
+grpc
